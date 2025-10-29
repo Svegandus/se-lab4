@@ -3,3 +3,4 @@
 GT4500,1,100,1,100
 # Fire torpedo that fail
 TORPEDO,ALL
+TORPEDO,ALL
