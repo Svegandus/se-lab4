@@ -1,0 +1,21 @@
+#felvátva lő	egyik tár 0 fail rate másk 100 fail rate és benne torpedok	tüzelünk több torpedót egyesével	success, fail felváltva amedik ki nem fogy
+# Create a ship for test
+GT4500,5,0,3,100
+# Fire torpedo that success
+TORPEDO,SINGLE
+# Fire torpedo that fail
+TORPEDO,SINGLE
+# Fire torpedo that success
+TORPEDO,SINGLE
+# Fire torpedo that fail
+TORPEDO,SINGLE
+# Fire torpedo that success
+TORPEDO,SINGLE
+# Fire torpedo that fail
+TORPEDO,SINGLE
+# Fire torpedo that success
+TORPEDO,SINGLE
+# Fire torpedo that success
+TORPEDO,SINGLE
+# Fire torpedo that fail
+TORPEDO,SINGLE

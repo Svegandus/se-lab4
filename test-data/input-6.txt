@@ -1,0 +1,5 @@
+#failt ad ha minkető fail volt	mindkét tár fail rate 100  és benne torpedok	tüzelünk két torpedót egyszere	fail
+# Create a ship for test
+GT4500,1,100,1,100
+# Fire torpedo that fail
+TORPEDO,ALL

@@ -1,0 +1,7 @@
+#lehet e tüzelni és törli a torpedót	legalább egy torpedó betöltve	tüzelünk két torpedót egyesével	success, fail
+# Create a ship with stocked torpedo stores that never fail
+GT4500,1,0,0,0
+# Fire torpedo that success
+TORPEDO,SINGLE
+# Fire torpedo that fail
+TORPEDO,SINGLE

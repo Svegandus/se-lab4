@@ -1,0 +1,5 @@
+#elég egy success all esetén	egyik tár 0 fail rate másk 100 fail rate és benne torpedok	tüzelünk két torpedót egyszere	success
+# Create a ship for test
+GT4500,1,0,1,100
+# Fire torpedo that success
+TORPEDO,ALL

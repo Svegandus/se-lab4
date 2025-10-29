@@ -1,0 +1,10 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- torpedo with primary 
+FAIL  # <- torpedo with secondary
+SUCCESS  # <- torpedo with primary 
+FAIL  # <- torpedo with secondary
+SUCCESS  # <- torpedo with primary 
+FAIL  # <- torpedo with secondary
+SUCCESS  # <- torpedo with primary 
+SUCCESS  # <- torpedo with primary 
+fail  # <- torpedo with primary 
