@@ -6,5 +6,5 @@ FAIL  # <- torpedo with secondary
 SUCCESS  # <- torpedo with primary 
 FAIL  # <- torpedo with secondary
 SUCCESS  # <- torpedo with primary 
-SUCCESS  # <- torpedo with primary 
-FAIL  # <- torpedo with primary 
+FAIL  # <- torpedo with primary
+SUCCESS  # <- torpedo with primary
