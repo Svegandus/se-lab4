@@ -1,0 +1,5 @@
+#meg probálja a másikat ha üres	épen jövö üres másik legalább egy torpedó betöltve	tüzelünk egy torpedót	success
+# Create a ship for test
+GT4500,0,0,1,0
+# Fire torpedo that success
+TORPEDO,SINGLE

@@ -1,0 +1,2 @@
+SUCCESS  # <- GT4500
+FAIL  # <- torpedo with 0 torpedo in store
